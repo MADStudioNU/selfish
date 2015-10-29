@@ -1,4 +1,5 @@
 ## Selfish
+[![Build Status](https://travis-ci.org/mmlc/selfish.svg?branch=master)](https://travis-ci.org/mmlc/selfish)
 
 It's a fast way to not function `this`. Wait, that doesn't make sense.
 
